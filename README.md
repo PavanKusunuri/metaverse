@@ -24,9 +24,5 @@ The `pages/api` directory is mapped to `/api/*`. Files in this directory are tre
 
 ## Dynamic Link of Website 
 Hoisted the website using vercel, we can easily import our github repository and deploy our target branch in the server.
+<br/>
 https://metaverse-187sofzsq-pavankusunuri.vercel.app/
-
-## Thanks
-When I haI wanted to thank @Javascriptmastery youtube channel
-
-
