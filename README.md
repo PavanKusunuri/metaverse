@@ -1,5 +1,3 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
 ## Getting Started
 
 First, run the development server:
@@ -18,17 +16,17 @@ You can start editing the page by modifying `pages/index.js`. The page auto-upda
 
 The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
-## Learn More
+## TechStack used
+# Framer-motion
+  Framer Motion is an animation library that makes creating animations easy. Its simplified API helps us abstract the complexities behind animations and allows us to create animations with ease.It was really fun to see all the cool animations and transitions taking place in the website.
+# Tailwind css
+   Got chance to use Tailwind css instead of all other available options, it was pretty good. Many utility classes are already present. Hope to use tailwind in next projects too.
 
-To learn more about Next.js, take a look at the following resources:
+## Dynamic Link of Website 
+Hoisted the website using vercel, we can easily import our github repository and deploy our target branch in the server.
+https://metaverse-187sofzsq-pavankusunuri.vercel.app/
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Thanks
+When I haI wanted to thank @Javascriptmastery youtube channel
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
