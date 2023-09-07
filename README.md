@@ -22,7 +22,7 @@ The `pages/api` directory is mapped to `/api/*`. Files in this directory are tre
 # Tailwind css
    Got chance to use Tailwind css instead of all other available options, it was pretty good. Many utility classes are already present. Hope to use tailwind in next projects too.
 
-## Dynamic Link of Website 
+## Website Link
 Hoisted the website using vercel, we can easily import our github repository and deploy our target branch in the server.
 <br/>
 https://metaverse-187sofzsq-pavankusunuri.vercel.app/
